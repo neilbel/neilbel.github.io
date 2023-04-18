@@ -6,4 +6,4 @@ Lien direct vers mon repository <a href="https://github.com/neilbel/training">tr
 <br/>
 <br/>
 <b>Entrez</b><br/>
-[![Le chemin est long](https://github.com/neilbel/training/blob/main/images/photographies/90c91c76-2f30-4912-92aa-71e062d1325a.JPG)](https://github.com/neilbel/training/blob/main/images/photographies/90c91c76-2f30-4912-92aa-71e062d1325a.JPG)
+[![Le chemin est long](https://github.com/neilbel/training/raw/main/images/photographies/90c91c76-2f30-4912-92aa-71e062d1325a.JPG)](https://github.com/neilbel/training/raw/main/images/photographies/90c91c76-2f30-4912-92aa-71e062d1325a.JPG)
